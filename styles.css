@@ -8,6 +8,7 @@
 	"sidebar content1 content2 content3"
 	"sidebar content1 content2 content3"
 	"sidebar footer footer footer";
+	grid-gap: 3px;
 }
 
 nav {
